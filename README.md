@@ -1,6 +1,6 @@
 # Olá, sou 「 ✦ Isabela ✦ 」 
         ฅ^>⩊<^ ฅ
-→ Estudando Python   
+→ Estudando Java  
 → Pronouns: Ela/Dela           
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
 <div>
