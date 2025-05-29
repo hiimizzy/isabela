@@ -1,6 +1,9 @@
 # Olá, sou 「 ✦ Isabela ✦ 」 
+
+![Gatinho acenando](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+
         ฅ^>⩊<^ ฅ
-→ Estudando Java  
+
 → Pronouns: Ela/Dela           
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
 <div>
