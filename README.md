@@ -1,8 +1,6 @@
 「 ✦ Hello ✦ 」 
 
-![Gatinho acenando](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
-
-        ฅ^>⩊<^ ฅ
+I'm Isa, a Fullstack jr based in Brazil.  ฅ^>⩊<^ ฅ
 
 → Pronouns: Ela/Dela           
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
