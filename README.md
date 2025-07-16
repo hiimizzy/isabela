@@ -2,7 +2,6 @@
 
 I'm Isa, a Fullstack jr based in Brazil.  ฅ^>⩊<^ ฅ
 
-<img src="https://raw.githubusercontent.com/hiimizzy/hiimizzy/output/snake.svg" alt="Snake animation" />
 
 ###
          
