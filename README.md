@@ -10,8 +10,6 @@ I'm Isa, a Fullstack jr based in Brazil.  ฅ^>⩊<^ ฅ
          
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
 
-###
-
 
 
 <div>
