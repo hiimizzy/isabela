@@ -2,6 +2,9 @@
 
 I'm Isa, a Fullstack jr based in Brazil.  ฅ^>⩊<^ ฅ
 
+![Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+
 
 ###
          
@@ -13,7 +16,6 @@ I'm Isa, a Fullstack jr based in Brazil.  ฅ^>⩊<^ ฅ
 
 <div>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiimizzy&show_icons-true&theme-dracula&hide_border=false&order=2"/>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiimizzy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div><br>
  <div style="display: inline_block"><br>
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
