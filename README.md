@@ -3,7 +3,7 @@
 
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
-<br><p align="center"> <img src="https://komarev.com/ghpvc/?username=hiimizzy&label=Profile%20views&color=0e75b6&style=flat" alt="hiimizzy" /> </p><br>
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=hiimizzy&label=Profile%20views&color=0e75b6&style=flat" alt="hiimizzy" /> </p><br>
 
 <p align="left">
 </p>
@@ -21,7 +21,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiimizzy/hiimizzy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiimizzy/hiimizzy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hiimizzy/hiimizzy/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
