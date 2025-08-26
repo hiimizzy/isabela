@@ -5,13 +5,10 @@
   </a>
 </div>
 <p>I'm a full-stack developer currently learning Python while creating pixel art, playing guitar, exploring the indie web and watching Cartoon Network.</p>
-<div align="center">
-  ≽(•⩊ •マ≼
-</div>
+
 
 -ˋˏ✄┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
-<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=hiimizzy&label=Profile%20views&color=0e75b6&style=flat" alt="hiimizzy" /> </p><br>
 
 <p align="left">
 </p>
