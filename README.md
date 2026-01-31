@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Isabela</h1>
-<h3 align="center">Sou desenvolvedora full-stack e atualmente estou aprendendo Python enquanto crio pixel art, toco violão e exploro a web indie</h3>
+<h3 align="center">I'm currently learning Python while creating pixel art, playing guitar, and exploring the indie web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiimizzy&label=Profile%20views&color=0e75b6&style=flat" alt="hiimizzy" /> </p>
 
