@@ -1,26 +1,12 @@
-<h1 align="center">Olá 👋, eu sou Isabela</h1>
-<h3 align="center">Sou desenvolvedora full-stack e atualmente estou aprendendo Python enquanto crio pixel art, toco violão e exploro a web indie</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiimizzy&label=Profile%20views&color=0e75b6&style=flat" alt="hiimizzy" /> </p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hiimzzy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hiimzzy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiimzzy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiimizzy/hiimizzy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiimizzy/hiimizzy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hiimizzy/hiimizzy/output/pacman-contribution-graph.svg">
-</picture>
+---
+[![](https://visitcount.itsvg.in/api?id=hiimzzy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiimizzy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiimizzy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiimizzy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiimizzy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
