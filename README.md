@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full-stack developer and I'm currently learning Python while creating pixel art, playing guitar, and exploring the indie web.
+I'm currently learning Python while creating pixel art, playing guitar, and exploring the indie web.
 
 
 ## 🌐 Socials:
